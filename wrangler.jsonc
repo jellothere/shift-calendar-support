@@ -1,5 +1,4 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "shift-calendar",
   "compatibility_date": "2026-09-09",
   "pages_build_output_dir": "./dist"
