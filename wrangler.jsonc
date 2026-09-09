@@ -2,10 +2,5 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "shift-calendar",
   "compatibility_date": "2026-09-09",
-  "assets": {
-    "directory": "./dist",
-    "html_handling": "auto-trailing-slash",
-    "not_found_handling": "none"
-  },
-  "observability": { "enabled": false }
+  "pages_build_output_dir": "./dist"
 }
